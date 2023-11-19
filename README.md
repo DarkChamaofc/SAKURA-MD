@@ -91,11 +91,11 @@ click the below button to deploy on heroku!
 ```
 
 
-## [☰🍄 𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝙏𝙃𝘼𝙉𝙆 𝙁𝙊𝙍 🍄☰]
+## [☰💃 𝐒𝐀𝐊𝐔𝐑𝐀 𝐌𝐃 𝐓𝐄𝐀𝐌 💃☰]
 
-| <a href="https://github.com/yasiyaofc1"><img src="https://telegra.ph/file/f94c2dd16ca20b270db3a.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/fb903cab55a435237b76.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/506e06c7ff3821612eeb.jpg" width=80 height=80></a> |
+| <a href="https://github.com/yasiyaofc1"><img src="https://telegra.ph/file/f94c2dd16ca20b270db3a.jpg" width=80 height=80></a> | <a href="http://tiktok.com/@hirutalks"><img src="https://telegra.ph/file/21d7644bc530efab3cf16.jpg" width=80 height=80></a> | <img src="https://telegra.ph/file/f477e530b93d866c664b1.jpg" width=80 height=80></a> |
 |---|---|---|
-| **[DARK YASIYA](https://github.com/yasiyaofc1)**</br>🎉 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 🎉</br> | **[DARK INDUWARA](https://github.com/induwaraofc](http://tiktok.com/@hirutalks))**</br> 🎉 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 🎉 | **[hansamal]()**</br>🎉 𝙏𝙃𝘼𝙉𝙆 𝙔𝙊𝙐 🎉
+| **[DARK YASIYA](https://github.com/yasiyaofc1)**</br>Devaloper For Sakura Md</br> | **[DARK INDUWARA](https://github.com/induwaraofc](https://github.com/yasiyaofc1/FORZEN-MD))**</br> co-owner and bug tester| **[DARK CHAMA]()**</br> Owner For Sakura Md
 
 `Release date:- comming soon`
 <br>
