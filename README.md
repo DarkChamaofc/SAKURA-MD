@@ -17,11 +17,11 @@
 </p>
     
     
- ![forks](https://img.shields.io/github/forks/DarkChamaofc/SAKURA-MDlabel=Forks&style=social)
+![forks](https://img.shields.io/github/forks/DarkChamaofc/SAKURA-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/DarkChamaofc/SAKURA-MDi?style=social)
+![stars](https://img.shields.io/github/stars/DarkChamaofc/SAKURA-MD?style=social)
   
-#### ```TOTAL PROFILE VIEWS 🧚```
+#### ```TOTAL PROFILE VIEWS 🌍```
 ![Visitor Count](https://profile-counter.glitch.me/DarkChamaofc/count.svg) 
 
 
