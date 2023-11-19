@@ -1,5 +1,4 @@
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗛𝗜+𝗜'𝗔𝗠+𝗦𝗔𝗞𝗨𝗥𝗔+𝗠𝗗+𝐒
-  𝗨𝗦𝗘𝗥+𝗕𝗢𝗧.;𝙾𝚆𝙽𝙴𝚁+𝙱𝚈+𝙳𝙰𝚁𝙺+𝙲𝙷𝙰𝙼𝙰;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈:+𝙳𝙰𝚁𝙺+𝚈𝙰𝚂𝙸𝚈𝙰+𝚇+𝚃𝙴𝙰𝙼;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐔𝐒𝐄𝐈𝐍𝐆+𝐒𝐀𝐊𝐔𝐑𝐀+𝐌𝐃+𝐁𝐎𝐓)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗛𝗜+𝗜'𝗔𝗠+𝗦𝗔𝗞𝗨𝗥𝗔+𝗠𝗗+𝗨𝗦𝗘𝗥+𝗕𝗢𝗧.;𝙾𝚆𝙽𝙴𝚁+𝙱𝚈+𝙳𝙰𝚁𝙺+𝙲𝙷𝙰𝙼𝙰;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈:+𝙳𝙰𝚁𝙺+𝚈𝙰𝚂𝙸𝚈𝙰+𝚇+𝚃𝙴𝙰𝙼;𝐓𝐇𝐀𝐍𝐊𝐒+𝐅𝐎𝐑+𝐔𝐒𝐄𝐈𝐍𝐆+𝐒𝐀𝐊𝐔𝐑𝐀+𝐌𝐃+𝐁𝐎𝐓)](https://git.io/typing-svg)
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
@@ -8,13 +7,13 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join Support Group" href="https://chat.whatsapp.com/HFyaKoMyFga5QE7rdFYOPA" target="_blank">
+  <a aria-label="Join Support chats" href="https://chat.whatsapp.com/CCkiMGz5ir044sqLYf7c1h" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Join Forzen MD SUPPORT GROUP" href="[https://chat.whatsapp.com/J6C3xxf5VAp0FW0KidBTwf](https://wa.me/9476001880#?text=Hi Dark Yasiya)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a aria-label="Sakura is free to use" href="https://github.com/DarkChamaofc/SAKURA-MD/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  
+
 </p>
     
     
